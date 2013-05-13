@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The King is Dead"
+title: "The King is Dead, Long Live the King"
 date: 2013-05-13 13:51
 comments: true
 categories: football, manchester united, fergie time
