@@ -5,10 +5,10 @@ date: 2013-05-12 23:13
 comments: true
 categories: 
 ---
-Més Que Un Club
-===============
 Pre-game // Antes del Partido // Abans del Partit
 ------
+
+
 > There cannot be much doubt that the whole thing is bound up with the rise of nationalism – that is, with the lunatic modern habit of identifying oneself with large power units and seeing everything in terms of competitive prestige.
 —George Orwell, **The Sporting Spirit** (1945)
 
